@@ -1,0 +1,10 @@
+se.ltu.ssr.adapter.interfaces
+se.ltu.ssr.adapters
+se.ltu.ssr.coap.adapter
+se.ltu.ssr.coap.server
+se.ltu.ssr.coapproxy
+se.ltu.ssr.common.data
+se.ltu.ssr.datasendertofiware
+se.ltu.ssr.mainapp
+se.ltu.ssr.mongodb.client
+se.ltu.ssr.testcode

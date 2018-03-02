@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpcomponents-client-4.5.1/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb/mongo-java-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/mongodb/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/org-json/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="lib/gson/gson-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/gson/gson-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/gson/gson-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/coap/californium-core-1.0.0 .jar" sourcepath="lib/coap/californium-core-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/coap/californium-proxy-1.0.0.jar" sourcepath="lib/coap/californium-proxy-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/coap/element-connector-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/coap/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="lib/coap/httpcore-nio-4.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/fiware/jackson-all-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/fiware/ngsi.api-5.2.3-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
